@@ -4,7 +4,7 @@ const TelegramBot = require('node-telegram-bot-api');
 // Replace with your bot token from @BotFather
 const BOT_TOKEN = '8549014772:AAE5xvEKCiJfipPkyli1DFZxK0lop2HBhg0';
 // Replace with your Render app URL (e.g., https://your-app.onrender.com)
-const WEBHOOK_URL = 'YOUR_RENDER_URL_HERE';
+const WEBHOOK_URL = 'https://retsa-bot.onrender.com';
 
 const bot = new TelegramBot(BOT_TOKEN);
 const app = express();
