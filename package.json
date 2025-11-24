@@ -1,6 +1,7 @@
 {
   "name": "retsa-telegram-bot",
   "version": "1.0.0",
+  "description": "RETSA Telegram Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
