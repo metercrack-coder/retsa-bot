@@ -56,7 +56,7 @@ bot.on('message', (msg) => {
   if (userMessage && !userMessage.startsWith('/')) {
     bot.sendMessage(
       chatId,
-      `Yo ${userName}! 💪\n\nI hear you, bro. "${userMessage}"\n\nNeed recommendations? Want to know about our products? Just ask.\n\nOr hit the link and start building that beast mode: https://retsa-bot.onrender.com 🔥`
+      `Yo ${userName}! 💪\n\nI hear you, bro. "${userMessage}"\n\nNeed recommendations? Want to know about our products? Just ask.\n\nOr hit the link and start building that beast mode: retsaehk.page.gd 🔥`
     );
   }
 });
