@@ -26,32 +26,32 @@ function getResponse(message) {
   
   // Tongkat Ali keywords
   if (msg.includes('tongkat') || msg.includes('testosterone') || msg.includes('test')) {
-    return "💪 YO! Tongkat Ali is THE natural testosterone booster, bro! 🔥\n\nBoosts T-levels, increases strength, and amps up your libido. Pure alpha energy right here.\n\n⚡ Price: ₱249\n🛒 Grab it: https://vt.tiktok.com/ZSHTdkvjS6hjP-4q8Gb/";
+    return "💪 YO! Tongkat Ali is THE natural testosterone booster, bro! 🔥\n\nBoosts T-levels, increases strength, and amps up your libido. Pure alpha energy right here.\n\n⚡ Price: ₱249\n🛒 Grab it: retsaehk.page.gd";
   }
   
   // Shilajit keywords
   if (msg.includes('shilajit') || msg.includes('energy') || msg.includes('stamina')) {
-    return "🔥 SHILAJIT - Ancient power for modern warriors! 💪\n\nPacked with 85+ minerals. Boosts energy, stamina, and recovery. This stuff is LEGENDARY.\n\n⚡ Price: ₱269\n🛒 Get yours: https://vt.tiktok.com/ZSHTdBvxW6Ycs-GlypO/";
+    return "🔥 SHILAJIT - Ancient power for modern warriors! 💪\n\nPacked with 85+ minerals. Boosts energy, stamina, and recovery. This stuff is LEGENDARY.\n\n⚡ Price: ₱269\n🛒 Get yours: retsaehk.page.gd";
   }
   
   // Creatine keywords
   if (msg.includes('creatine') || msg.includes('strength') || msg.includes('muscle') || msg.includes('gains')) {
-    return "💯 CREATINE MONOHYDRATE - The KING of supplements! 🏋️\n\nPure strength gains, more reps, bigger muscles. No fluff, just results. Every gym warrior needs this.\n\n⚡ Price: ₱418\n🛒 Order now: https://vt.tiktok.com/ZSHTdkbWGXGSs-Ye503/";
+    return "💯 CREATINE MONOHYDRATE - The KING of supplements! 🏋️\n\nPure strength gains, more reps, bigger muscles. No fluff, just results. Every gym warrior needs this.\n\n⚡ Price: ₱418\n🛒 Order now: retsaehk.page.gd";
   }
   
   // Testosterone Booster keywords
   if (msg.includes('booster') || msg.includes('performance') || msg.includes('libido')) {
-    return "⚡ TESTOSTERONE BOOSTER - Unleash the beast mode! 💪🔥\n\nMaximize performance, boost libido, increase muscle mass. Feel like a champion every day.\n\n⚡ Price: ₱192\n🛒 Shop here: https://vt.tiktok.com/ZSHTdBuA3Uu12-ivap7/";
+    return "⚡ TESTOSTERONE BOOSTER - Unleash the beast mode! 💪🔥\n\nMaximize performance, boost libido, increase muscle mass. Feel like a champion every day.\n\n⚡ Price: ₱192\n🛒 Shop here: retsaehk.page.gd";
   }
   
   // Price keywords
   if (msg.includes('price') || msg.includes('cost') || msg.includes('how much')) {
-    return "💰 RETSA PRICES - Premium quality, fair prices:\n\n⚡ Tongkat Ali - ₱249\n⚡ Test Booster - ₱192\n⚡ Shilajit - ₱269\n⚡ Creatine - ₱418\n\n🛒 Full shop: https://retsa-bot.onrender.com";
+    return "💰 RETSA PRICES - Premium quality, fair prices:\n\n⚡ Tongkat Ali - ₱249\n⚡ Test Booster - ₱192\n⚡ Shilajit - ₱269\n⚡ Creatine - ₱418\n\n🛒 Full shop: retsaehk.page.gd";
   }
   
   // Shop/Buy keywords
   if (msg.includes('shop') || msg.includes('buy') || msg.includes('order') || msg.includes('purchase')) {
-    return "🛒 READY TO LEVEL UP? Let's get it! 💪\n\nCheck out the full arsenal:\n🔗 https://retsa-bot.onrender.com\n\nPick your weapon and start building that beast mode! 🔥💯";
+    return "🛒 READY TO LEVEL UP? Let's get it! 💪\n\nCheck out the full arsenal:\n🔗 retsaehk.page.gd\n\nPick your weapon and start building that beast mode! 🔥💯";
   }
   
   // Recommendation keywords
@@ -66,11 +66,11 @@ function getResponse(message) {
   
   // Greeting keywords
   if (msg.includes('hi') || msg.includes('hello') || msg.includes('hey') || msg.includes('yo')) {
-    return "YO! 💪 What's good, bro? Ready to talk gains?\n\nAsk me about our products or hit that shop link! 🔥\n🛒 https://retsa-bot.onrender.com";
+    return "YO! 💪 What's good, bro? Ready to talk gains?\n\nAsk me about our products or hit that shop link! 🔥\n🛒 retsaehk.page.gd";
   }
   
   // Default response
-  return "Yo bro! 💪 Not sure what you need?\n\nAsk me about:\n🔥 Tongkat Ali\n🔥 Shilajit\n🔥 Creatine\n🔥 Test Boosters\n🔥 Prices\n🔥 Recommendations\n\nOr just hit the shop: https://retsa-bot.onrender.com 💯";
+  return "Yo bro! 💪 Not sure what you need?\n\nAsk me about:\n🔥 Tongkat Ali\n🔥 Shilajit\n🔥 Creatine\n🔥 Test Boosters\n🔥 Prices\n🔥 Recommendations\n\nOr just hit the shop: retsaehk.page.gd 💯";
 }
 
 // Handle /start command
@@ -91,7 +91,7 @@ We got the ELITE gym supplements that'll take your gains to the next level:
 
 No BS. No fillers. Just raw power for warriors like you.
 
-🛒 CHECK THE ARSENAL: https://retsa-bot.onrender.com
+🛒 CHECK THE ARSENAL: retsaehk.page.gd
 
 Ready to level up? Let's get it. 💯🔥
   `;
